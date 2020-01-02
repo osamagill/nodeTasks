@@ -1,7 +1,7 @@
 const mongoose = require('mongoose');
 //mongoose.connect('mongodb://localhost:27017/studentDB', {useNewUrlParser: true}, ()=>console.log('connected'));
 
-mongoose.connect('mongodb+srv://muzammal6313:ashrafi9885@cluster0-4hc2l.mongodb.net/studentDB?retryWrites=true&w=majority',
+mongoose.connect('mongodb+srv://alpha3321:s@@dgill123@cluster0-psv7x.mongodb.net/nodeDataBase?retryWrites=true&w=majority',
                  {useNewUrlParser: true},
     ()=>console.log('connected'));
 
