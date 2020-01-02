@@ -27,12 +27,12 @@ Connected with online cluster of mongodb.
 </ol>  
 
 <br><p>Login the page</p><br>
-<img src="img3.PNG" width="700" height="400"><br>
+<img src="img3.png" width="700" height="400"><br>
 <br>
 
 
 <br><p>Post New Student</p><br>
-<img src="post.PNG" width="700" height="400"><br>
+<img src="post.png" width="700" height="400"><br>
 <br>
 
 <br><p>Online Database Cluster</p><br>
