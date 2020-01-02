@@ -43,12 +43,7 @@ Connected with online cluster of mongodb.
 <br>
 
 <br><p>Return list of students.</p><br>
-<img src="APIEndpoint.PNG" width="700" height="400"><br>
+<img src="APIEnd point.PNG" width="700" height="400"><br>
 
 <br><p>Heroku</p><br>
 <img src="heCapture.PNG" width="700" height="400"><br>
-
-<br><p>Login the page</p><br>
-<img src="s3.PNG" width="700" height="400"><br>
-<br>
-
